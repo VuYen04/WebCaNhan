@@ -1,0 +1,54 @@
+F:\Lập Trình Web\WebCaNhan\WebCaNhan\WebCaNhan\bin\Debug\net7.0\appsettings.Development.json
+F:\Lập Trình Web\WebCaNhan\WebCaNhan\WebCaNhan\bin\Debug\net7.0\appsettings.json
+F:\Lập Trình Web\WebCaNhan\WebCaNhan\WebCaNhan\bin\Debug\net7.0\WebCaNhan.exe
+F:\Lập Trình Web\WebCaNhan\WebCaNhan\WebCaNhan\bin\Debug\net7.0\WebCaNhan.deps.json
+F:\Lập Trình Web\WebCaNhan\WebCaNhan\WebCaNhan\bin\Debug\net7.0\WebCaNhan.runtimeconfig.json
+F:\Lập Trình Web\WebCaNhan\WebCaNhan\WebCaNhan\bin\Debug\net7.0\WebCaNhan.dll
+F:\Lập Trình Web\WebCaNhan\WebCaNhan\WebCaNhan\bin\Debug\net7.0\WebCaNhan.pdb
+F:\Lập Trình Web\WebCaNhan\WebCaNhan\WebCaNhan\obj\Debug\net7.0\WebCaNhan.GeneratedMSBuildEditorConfig.editorconfig
+F:\Lập Trình Web\WebCaNhan\WebCaNhan\WebCaNhan\obj\Debug\net7.0\WebCaNhan.AssemblyInfoInputs.cache
+F:\Lập Trình Web\WebCaNhan\WebCaNhan\WebCaNhan\obj\Debug\net7.0\WebCaNhan.AssemblyInfo.cs
+F:\Lập Trình Web\WebCaNhan\WebCaNhan\WebCaNhan\obj\Debug\net7.0\WebCaNhan.csproj.CoreCompileInputs.cache
+F:\Lập Trình Web\WebCaNhan\WebCaNhan\WebCaNhan\obj\Debug\net7.0\WebCaNhan.MvcApplicationPartsAssemblyInfo.cache
+F:\Lập Trình Web\WebCaNhan\WebCaNhan\WebCaNhan\obj\Debug\net7.0\WebCaNhan.RazorAssemblyInfo.cache
+F:\Lập Trình Web\WebCaNhan\WebCaNhan\WebCaNhan\obj\Debug\net7.0\WebCaNhan.RazorAssemblyInfo.cs
+F:\Lập Trình Web\WebCaNhan\WebCaNhan\WebCaNhan\obj\Debug\net7.0\staticwebassets\msbuild.WebCaNhan.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Lập Trình Web\WebCaNhan\WebCaNhan\WebCaNhan\obj\Debug\net7.0\staticwebassets\msbuild.build.WebCaNhan.props
+F:\Lập Trình Web\WebCaNhan\WebCaNhan\WebCaNhan\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebCaNhan.props
+F:\Lập Trình Web\WebCaNhan\WebCaNhan\WebCaNhan\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebCaNhan.props
+F:\Lập Trình Web\WebCaNhan\WebCaNhan\WebCaNhan\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Lập Trình Web\WebCaNhan\WebCaNhan\WebCaNhan\obj\Debug\net7.0\staticwebassets.build.json
+F:\Lập Trình Web\WebCaNhan\WebCaNhan\WebCaNhan\obj\Debug\net7.0\staticwebassets.development.json
+F:\Lập Trình Web\WebCaNhan\WebCaNhan\WebCaNhan\obj\Debug\net7.0\scopedcss\bundle\WebCaNhan.styles.css
+F:\Lập Trình Web\WebCaNhan\WebCaNhan\WebCaNhan\obj\Debug\net7.0\WebCaNhan.dll
+F:\Lập Trình Web\WebCaNhan\WebCaNhan\WebCaNhan\obj\Debug\net7.0\refint\WebCaNhan.dll
+F:\Lập Trình Web\WebCaNhan\WebCaNhan\WebCaNhan\obj\Debug\net7.0\WebCaNhan.pdb
+F:\Lập Trình Web\WebCaNhan\WebCaNhan\WebCaNhan\obj\Debug\net7.0\WebCaNhan.genruntimeconfig.cache
+F:\Lập Trình Web\WebCaNhan\WebCaNhan\WebCaNhan\obj\Debug\net7.0\ref\WebCaNhan.dll
+E:\CNTT Năm 3\CNTT Kỳ 5\LAPTRINHWEB\WebCaNhan\WebCaNhan\bin\Debug\net7.0\appsettings.Development.json
+E:\CNTT Năm 3\CNTT Kỳ 5\LAPTRINHWEB\WebCaNhan\WebCaNhan\bin\Debug\net7.0\appsettings.json
+E:\CNTT Năm 3\CNTT Kỳ 5\LAPTRINHWEB\WebCaNhan\WebCaNhan\bin\Debug\net7.0\WebCaNhan.exe
+E:\CNTT Năm 3\CNTT Kỳ 5\LAPTRINHWEB\WebCaNhan\WebCaNhan\bin\Debug\net7.0\WebCaNhan.deps.json
+E:\CNTT Năm 3\CNTT Kỳ 5\LAPTRINHWEB\WebCaNhan\WebCaNhan\bin\Debug\net7.0\WebCaNhan.runtimeconfig.json
+E:\CNTT Năm 3\CNTT Kỳ 5\LAPTRINHWEB\WebCaNhan\WebCaNhan\bin\Debug\net7.0\WebCaNhan.dll
+E:\CNTT Năm 3\CNTT Kỳ 5\LAPTRINHWEB\WebCaNhan\WebCaNhan\bin\Debug\net7.0\WebCaNhan.pdb
+E:\CNTT Năm 3\CNTT Kỳ 5\LAPTRINHWEB\WebCaNhan\WebCaNhan\obj\Debug\net7.0\WebCaNhan.GeneratedMSBuildEditorConfig.editorconfig
+E:\CNTT Năm 3\CNTT Kỳ 5\LAPTRINHWEB\WebCaNhan\WebCaNhan\obj\Debug\net7.0\WebCaNhan.AssemblyInfoInputs.cache
+E:\CNTT Năm 3\CNTT Kỳ 5\LAPTRINHWEB\WebCaNhan\WebCaNhan\obj\Debug\net7.0\WebCaNhan.AssemblyInfo.cs
+E:\CNTT Năm 3\CNTT Kỳ 5\LAPTRINHWEB\WebCaNhan\WebCaNhan\obj\Debug\net7.0\WebCaNhan.csproj.CoreCompileInputs.cache
+E:\CNTT Năm 3\CNTT Kỳ 5\LAPTRINHWEB\WebCaNhan\WebCaNhan\obj\Debug\net7.0\WebCaNhan.MvcApplicationPartsAssemblyInfo.cache
+E:\CNTT Năm 3\CNTT Kỳ 5\LAPTRINHWEB\WebCaNhan\WebCaNhan\obj\Debug\net7.0\WebCaNhan.RazorAssemblyInfo.cache
+E:\CNTT Năm 3\CNTT Kỳ 5\LAPTRINHWEB\WebCaNhan\WebCaNhan\obj\Debug\net7.0\WebCaNhan.RazorAssemblyInfo.cs
+E:\CNTT Năm 3\CNTT Kỳ 5\LAPTRINHWEB\WebCaNhan\WebCaNhan\obj\Debug\net7.0\staticwebassets.build.json
+E:\CNTT Năm 3\CNTT Kỳ 5\LAPTRINHWEB\WebCaNhan\WebCaNhan\obj\Debug\net7.0\staticwebassets.development.json
+E:\CNTT Năm 3\CNTT Kỳ 5\LAPTRINHWEB\WebCaNhan\WebCaNhan\obj\Debug\net7.0\staticwebassets\msbuild.WebCaNhan.Microsoft.AspNetCore.StaticWebAssets.props
+E:\CNTT Năm 3\CNTT Kỳ 5\LAPTRINHWEB\WebCaNhan\WebCaNhan\obj\Debug\net7.0\staticwebassets\msbuild.build.WebCaNhan.props
+E:\CNTT Năm 3\CNTT Kỳ 5\LAPTRINHWEB\WebCaNhan\WebCaNhan\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebCaNhan.props
+E:\CNTT Năm 3\CNTT Kỳ 5\LAPTRINHWEB\WebCaNhan\WebCaNhan\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebCaNhan.props
+E:\CNTT Năm 3\CNTT Kỳ 5\LAPTRINHWEB\WebCaNhan\WebCaNhan\obj\Debug\net7.0\staticwebassets.pack.json
+E:\CNTT Năm 3\CNTT Kỳ 5\LAPTRINHWEB\WebCaNhan\WebCaNhan\obj\Debug\net7.0\scopedcss\bundle\WebCaNhan.styles.css
+E:\CNTT Năm 3\CNTT Kỳ 5\LAPTRINHWEB\WebCaNhan\WebCaNhan\obj\Debug\net7.0\WebCaNhan.dll
+E:\CNTT Năm 3\CNTT Kỳ 5\LAPTRINHWEB\WebCaNhan\WebCaNhan\obj\Debug\net7.0\refint\WebCaNhan.dll
+E:\CNTT Năm 3\CNTT Kỳ 5\LAPTRINHWEB\WebCaNhan\WebCaNhan\obj\Debug\net7.0\WebCaNhan.pdb
+E:\CNTT Năm 3\CNTT Kỳ 5\LAPTRINHWEB\WebCaNhan\WebCaNhan\obj\Debug\net7.0\WebCaNhan.genruntimeconfig.cache
+E:\CNTT Năm 3\CNTT Kỳ 5\LAPTRINHWEB\WebCaNhan\WebCaNhan\obj\Debug\net7.0\ref\WebCaNhan.dll
